@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moisés Gómez
 - 👀 I’m interested in Kotlin Android development
-- 💞️ I’m looking to collaborate on excitement projects
+- 💞️ I’m looking to collaborate on exciting projects
 - 📫 You can reach me with my email: gomezmedinamoises90@gmail.com
 
 <!---
