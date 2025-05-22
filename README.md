@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Moisés Gómez
-- 👀 I’m interested in Kotlin Android and Flutter development
+- 👀 I’m interested in mobile development (Flutter & Android)
 - 💞️ I’m open to collaborate on interesting projects
 - 📫 You can reach me with my email: gomezmedinamoises90@gmail.com or via Telegram @moises_gomez
 
